@@ -3,7 +3,7 @@
 
 **Graph Viz** is a web application designed to help users visualize typical graph searching algorithms. This interactive tool enables users to understand and explore various algorithms such as Depth-First Search (DFS), Breadth-First Search (BFS), A*, Dijkstra, and Greedy BFS through engaging animations and intuitive UI.
 
-**💻Live Demo** [Website Link](https://graphalgosimulator.netlify.app/)
+**💻Live Demo** [Website Link](https://graphvizualiser.netlify.app/)
 
 ## Features
 
